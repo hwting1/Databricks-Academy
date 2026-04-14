@@ -26,6 +26,7 @@ dependencies = [
     "mlflow>=3.11.1",
     "numba>=0.59",
     "openai>=2.31.0",
+    "peft>=0.18.1",
     "protobuf<3.21",
     "pyspark>=4.1.1",
     "python-dotenv>=1.2.2",
