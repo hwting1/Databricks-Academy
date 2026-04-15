@@ -9,7 +9,6 @@ dependencies = [
     "chromadb>=1.5.7",
     "datasets<4",
     "decord>=0.6.0",
-    "deepspeed>=0.18.9",
     "delta-spark>=4.2.0",
     "evaluate>=0.4.6",
     "faiss-cpu>=1.13.2",
@@ -43,6 +42,6 @@ dependencies = [
     "tokenizers>=0.22.2",
     "torchao>=0.17.0",
     "torchvision>=0.26.0",
-    "transformers[sentencepiece,torch]>=5",
+    "transformers[deepspeed,sentencepiece,sklearn,torch]>=5",
     "wikipedia>=1.4.0",
 ]
