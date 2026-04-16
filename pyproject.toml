@@ -40,7 +40,6 @@ dependencies = [
     "textblob>=0.20.0",
     "tiktoken>=0.12.0",
     "tokenizers>=0.22.2",
-    "torchao>=0.17.0",
     "torchvision>=0.26.0",
     "transformers[deepspeed,sentencepiece,sklearn,torch]>=5",
     "wikipedia>=1.4.0",
